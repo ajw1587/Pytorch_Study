@@ -1,3 +1,1 @@
 # Pytorch_Study
-# Study
-   
