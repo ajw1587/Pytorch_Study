@@ -1,4 +1,2 @@
 # Pytorch_Study
-   
-  
-  
+# Model
